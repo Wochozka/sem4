@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<uzivatele>
+  <uzivatel vek="22">
+    <jmeno>Adam Novak</jmeno>
+<<<<<<< HEAD
+    <registrovan>06.05mmm.2022</registrovan>
+  </uzivatel>
+  <uzivatel vek="20">
+    <jmeno>Jan Novak</jmeno>
+    <registrovan>08.07mmm.2021</registrovan>
+  </uzivatel>
+  <uzivatel vek="28">
+    <jmeno>Martin Novak</jmeno>
+    <registrovan>05.10mmm.2020</registrovan>
+=======
+    <registrovan>06.05.2022</registrovan>
+  </uzivatel>
+  <uzivatel vek="20">
+    <jmeno>Jan Novak</jmeno>
+    <registrovan>08.07.2021</registrovan>
+  </uzivatel>
+  <uzivatel vek="28">
+    <jmeno>Martin Novak</jmeno>
+    <registrovan>05.10.2020</registrovan>
+>>>>>>> cc0360fe24b52b12e6c8ccc6d8c5c1eab21e0012
+  </uzivatel>
+</uzivatele>
